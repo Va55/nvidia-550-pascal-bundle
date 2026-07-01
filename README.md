@@ -1,4 +1,4 @@
-# NVIDIA 550.163.01 + CUDA 12.4 — Pascal Offline Installer
+# NVIDIA 550.163.01 + CUDA 12.4 — Pascal Legacy Driver
 
 **Last driver branch supporting Pascal GPUs** (Tesla P4, GTX 1080, etc.).  
 NVIDIA dropped Pascal support starting with the 560 driver branch.
